@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "title": "Fugue No. 6 in D minor, BWV 851",
+  "score": "score.musicxml",
+  "segments": "segments.json",
+  "hands": "hands.json",
+  "subject": "subject.json"
+}

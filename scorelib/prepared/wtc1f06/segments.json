@@ -1,0 +1,237 @@
+{
+  "schema": 1,
+  "piece_id": "wtc1f06",
+  "beat_unit": 1.0,
+  "segments": [
+    {
+      "id": "s1",
+      "label": "m1-m8",
+      "start": {
+        "measure": 1,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 8,
+        "beat": 1.0
+      },
+      "activities": [
+        "hands_separate",
+        "slow"
+      ],
+      "end_overrides": {
+        "1": {
+          "measure": 8,
+          "beat": 1.5
+        },
+        "2": {
+          "measure": 8,
+          "beat": 2.0
+        },
+        "3": {
+          "measure": 8,
+          "beat": 2.0
+        }
+      }
+    },
+    {
+      "id": "s2",
+      "label": "m8-m13",
+      "start": {
+        "measure": 8,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 14,
+        "beat": 1.0
+      },
+      "end_overrides": {
+        "3": {
+          "measure": 13,
+          "beat": 2.0
+        },
+        "1": {
+          "measure": 13,
+          "beat": 1.5
+        }
+      }
+    },
+    {
+      "id": "s4",
+      "label": "m.13\u201317",
+      "start": {
+        "measure": 14,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 17,
+        "beat": 1.0
+      },
+      "activities": [
+        "hands_separate",
+        "play_cold"
+      ],
+      "end_overrides": {
+        "1": {
+          "measure": 17,
+          "beat": 1.25
+        },
+        "2": {
+          "measure": 17,
+          "beat": 1.5
+        },
+        "3": {
+          "measure": 17,
+          "beat": 1.5
+        }
+      },
+      "start_overrides": {
+        "1": {
+          "measure": 13,
+          "beat": 1.0
+        },
+        "2": {
+          "measure": 13,
+          "beat": 1.0
+        },
+        "3": {
+          "measure": 13,
+          "beat": 1.0
+        }
+      }
+    },
+    {
+      "id": "s3",
+      "label": "m.17\u201321",
+      "start": {
+        "measure": 17,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 23,
+        "beat": 2.0
+      },
+      "end_overrides": {
+        "1": {
+          "measure": 21,
+          "beat": 2.0
+        },
+        "3": {
+          "measure": 21,
+          "beat": 1.5
+        }
+      }
+    },
+    {
+      "id": "s6",
+      "label": "m21-26",
+      "start": {
+        "measure": 23,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 26,
+        "beat": 1.0
+      },
+      "activities": [
+        "hands_separate",
+        "slow"
+      ],
+      "start_overrides": {
+        "1": {
+          "measure": 21,
+          "beat": 1.0
+        },
+        "2": {
+          "measure": 21,
+          "beat": 2.0
+        },
+        "3": {
+          "measure": 21,
+          "beat": 1.0
+        }
+      },
+      "end_overrides": {
+        "1": {
+          "measure": 26,
+          "beat": 1.25
+        },
+        "2": {
+          "measure": 26,
+          "beat": 2.0
+        }
+      }
+    },
+    {
+      "id": "s5",
+      "label": "m.26\u201333",
+      "start": {
+        "measure": 26,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 33,
+        "beat": 1.0
+      }
+    },
+    {
+      "id": "s8",
+      "label": "m.33\u201339",
+      "start": {
+        "measure": 33,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 40,
+        "beat": 1.0
+      },
+      "activities": [
+        "hands_separate",
+        "play_cold"
+      ],
+      "end_overrides": {
+        "1": {
+          "measure": 39,
+          "beat": 1.25
+        },
+        "2": {
+          "measure": 39,
+          "beat": 1.5
+        },
+        "3": {
+          "measure": 39,
+          "beat": 1.5
+        }
+      }
+    },
+    {
+      "id": "s10",
+      "label": "m39-end",
+      "start": {
+        "measure": 40,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 45,
+        "beat": 1.0
+      },
+      "activities": [
+        "hands_separate",
+        "from_memory"
+      ],
+      "start_overrides": {
+        "3": {
+          "measure": 39,
+          "beat": 1.0
+        },
+        "1": {
+          "measure": 39,
+          "beat": 1.0
+        },
+        "2": {
+          "measure": 39,
+          "beat": 1.0
+        }
+      }
+    }
+  ]
+}

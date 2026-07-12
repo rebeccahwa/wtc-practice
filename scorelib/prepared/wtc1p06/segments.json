@@ -1,0 +1,177 @@
+{
+  "schema": 1,
+  "piece_id": "wtc1p06",
+  "beat_unit": 1.0,
+  "segments": [
+    {
+      "id": "s1",
+      "label": "Opening",
+      "start": {
+        "measure": 1,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 6,
+        "beat": 2.0
+      },
+      "activities": [
+        "hands_separate",
+        "skeleton"
+      ],
+      "end_overrides": {
+        "1": {
+          "measure": 6,
+          "beat": 2.6667
+        },
+        "3": {
+          "measure": 6,
+          "beat": 3.0
+        }
+      }
+    },
+    {
+      "id": "s2",
+      "label": "m.6-8",
+      "start": {
+        "measure": 6,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 8,
+        "beat": 1.0
+      },
+      "activities": [
+        "hands_separate",
+        "skeleton"
+      ],
+      "start_overrides": {
+        "1": {
+          "measure": 6,
+          "beat": 2.5
+        },
+        "3": {
+          "measure": 6,
+          "beat": 2.5
+        }
+      },
+      "end_overrides": {
+        "1": {
+          "measure": 8,
+          "beat": 2.4997
+        },
+        "3": {
+          "measure": 8,
+          "beat": 2.5
+        }
+      }
+    },
+    {
+      "id": "s6",
+      "label": "m.8\u201312",
+      "start": {
+        "measure": 8,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 12,
+        "beat": 2.0
+      },
+      "end_overrides": {
+        "1": {
+          "measure": 12,
+          "beat": 2.9997
+        },
+        "3": {
+          "measure": 12,
+          "beat": 3.0
+        }
+      },
+      "start_overrides": {
+        "1": {
+          "measure": 8,
+          "beat": 2.5
+        },
+        "3": {
+          "measure": 8,
+          "beat": 2.5
+        }
+      }
+    },
+    {
+      "id": "s7",
+      "label": "m.12\u201315",
+      "start": {
+        "measure": 12,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 15,
+        "beat": 1.0
+      },
+      "end_overrides": {
+        "3": {
+          "measure": 15,
+          "beat": 2.5
+        },
+        "1": {
+          "measure": 15,
+          "beat": 3.0
+        }
+      },
+      "start_overrides": {
+        "1": {
+          "measure": 12,
+          "beat": 2.5
+        },
+        "3": {
+          "measure": 12,
+          "beat": 2.5
+        }
+      }
+    },
+    {
+      "id": "s3",
+      "label": "m.15\u201319",
+      "start": {
+        "measure": 15,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 19,
+        "beat": 2.0
+      }
+    },
+    {
+      "id": "s4",
+      "label": "m.19\u201322",
+      "start": {
+        "measure": 19,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 23,
+        "beat": 1.0
+      },
+      "activities": [
+        "hands_separate",
+        "slow"
+      ]
+    },
+    {
+      "id": "s5",
+      "label": "Close, m.23\u201326",
+      "start": {
+        "measure": 23,
+        "beat": 1.0
+      },
+      "end": {
+        "measure": 27,
+        "beat": 1.0
+      },
+      "activities": [
+        "hands_separate",
+        "from_memory"
+      ]
+    }
+  ]
+}

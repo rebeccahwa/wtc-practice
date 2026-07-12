@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "piece_id": "wtc1f06",
+  "subject": {
+    "length_ql": 6.5,
+    "entries": [
+      {
+        "part": 0,
+        "voice": 1,
+        "start": {
+          "measure": 1,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 0,
+        "voice": 2,
+        "start": {
+          "measure": 3,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 1,
+        "voice": 3,
+        "start": {
+          "measure": 6,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 0,
+        "voice": 1,
+        "start": {
+          "measure": 8,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 0,
+        "voice": 2,
+        "start": {
+          "measure": 12,
+          "beat": 1.5
+        },
+        "notes": 9,
+        "kind": "inversion",
+        "prominence": "faint"
+      },
+      {
+        "part": 0,
+        "voice": 1,
+        "start": {
+          "measure": 13,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 0,
+        "voice": 2,
+        "start": {
+          "measure": 14,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "inversion",
+        "prominence": "medium"
+      },
+      {
+        "part": 1,
+        "voice": 3,
+        "start": {
+          "measure": 17,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 0,
+        "voice": 2,
+        "start": {
+          "measure": 18,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 1,
+        "voice": 3,
+        "start": {
+          "measure": 21,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 0,
+        "voice": 1,
+        "start": {
+          "measure": 22,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "inversion",
+        "prominence": "medium"
+      },
+      {
+        "part": 1,
+        "voice": 3,
+        "start": {
+          "measure": 23,
+          "beat": 1.0
+        },
+        "notes": 13,
+        "kind": "inversion",
+        "prominence": "medium"
+      },
+      {
+        "part": 1,
+        "voice": 3,
+        "start": {
+          "measure": 26,
+          "beat": 1.5
+        },
+        "notes": 15,
+        "kind": "fragment",
+        "prominence": "faint"
+      },
+      {
+        "part": 0,
+        "voice": 1,
+        "start": {
+          "measure": 27,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "inversion",
+        "prominence": "medium"
+      },
+      {
+        "part": 0,
+        "voice": 2,
+        "start": {
+          "measure": 28,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 1,
+        "voice": 3,
+        "start": {
+          "measure": 29,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "fragment",
+        "prominence": "faint"
+      },
+      {
+        "part": 1,
+        "voice": 3,
+        "start": {
+          "measure": 34,
+          "beat": 1.5
+        },
+        "notes": 14,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 1,
+        "voice": 3,
+        "start": {
+          "measure": 39,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      },
+      {
+        "part": 0,
+        "voice": 2,
+        "start": {
+          "measure": 40,
+          "beat": 1.5
+        },
+        "notes": 12,
+        "kind": "subject",
+        "prominence": "clear"
+      }
+    ]
+  }
+}

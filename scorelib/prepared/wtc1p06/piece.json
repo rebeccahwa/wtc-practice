@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "title": "Prelude No. 6 in D minor, BWV 851",
+  "score": "score.musicxml",
+  "segments": "segments.json",
+  "simplify": {
+    "dir": "simplify",
+    "slice": 0.5,
+    "levels": ["block", "core", "single"]
+  }
+}

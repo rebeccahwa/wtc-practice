@@ -1,0 +1,195 @@
+{
+  "schema": 1,
+  "cards": [
+    {
+      "key": "chorale",
+      "purpose": "Balance",
+      "name": "Chorale cadence",
+      "how": "Voice it like a chorale — shape toward the top, hear the inner parts.",
+      "cycle": "key",
+      "params": [
+        {
+          "id": "0",
+          "label": "C"
+        },
+        {
+          "id": "1",
+          "label": "G"
+        },
+        {
+          "id": "2",
+          "label": "D"
+        },
+        {
+          "id": "3",
+          "label": "A"
+        },
+        {
+          "id": "4",
+          "label": "E"
+        },
+        {
+          "id": "5",
+          "label": "B"
+        },
+        {
+          "id": "6",
+          "label": "F♯"
+        },
+        {
+          "id": "7",
+          "label": "D♭"
+        },
+        {
+          "id": "8",
+          "label": "A♭"
+        },
+        {
+          "id": "9",
+          "label": "E♭"
+        },
+        {
+          "id": "10",
+          "label": "B♭"
+        },
+        {
+          "id": "11",
+          "label": "F"
+        }
+      ]
+    },
+    {
+      "key": "voicing",
+      "purpose": "Balance",
+      "name": "Voice the inside",
+      "how": "Hold the chord and balance it — top, then bass, then the inner notes. ↻ for another.",
+      "cycle": "chord",
+      "params": [
+        {
+          "id": "0",
+          "label": "Cmaj7"
+        },
+        {
+          "id": "1",
+          "label": "Fmaj7"
+        },
+        {
+          "id": "2",
+          "label": "C6"
+        },
+        {
+          "id": "3",
+          "label": "G6/9"
+        },
+        {
+          "id": "4",
+          "label": "Cadd9"
+        },
+        {
+          "id": "5",
+          "label": "Dm7"
+        },
+        {
+          "id": "6",
+          "label": "Am7"
+        },
+        {
+          "id": "7",
+          "label": "Em7"
+        },
+        {
+          "id": "8",
+          "label": "Dm9"
+        },
+        {
+          "id": "9",
+          "label": "Am9"
+        },
+        {
+          "id": "10",
+          "label": "Dm11"
+        },
+        {
+          "id": "11",
+          "label": "Fm6"
+        },
+        {
+          "id": "12",
+          "label": "G7"
+        },
+        {
+          "id": "13",
+          "label": "C7"
+        },
+        {
+          "id": "14",
+          "label": "D9"
+        },
+        {
+          "id": "15",
+          "label": "G13"
+        },
+        {
+          "id": "16",
+          "label": "A7b9"
+        },
+        {
+          "id": "17",
+          "label": "E7#9"
+        },
+        {
+          "id": "18",
+          "label": "Fmaj7#11"
+        },
+        {
+          "id": "19",
+          "label": "C7#11"
+        },
+        {
+          "id": "20",
+          "label": "D7b13"
+        },
+        {
+          "id": "21",
+          "label": "Bm7b5"
+        },
+        {
+          "id": "22",
+          "label": "Bdim7"
+        },
+        {
+          "id": "23",
+          "label": "Ebmaj7"
+        }
+      ]
+    },
+    {
+      "key": "scale",
+      "purpose": "Evenness",
+      "name": "Scale, up and down",
+      "how": "One octave, parallel, slow and even. Then the standard routine: 2 octaves parallel · 2 contrary · 2 contrary back · 2 parallel home. ↻ for 3rds & 6ths.",
+      "cycle": "interval",
+      "params": [
+        {
+          "id": "0",
+          "label": "octaves"
+        },
+        {
+          "id": "1",
+          "label": "in 3rds"
+        },
+        {
+          "id": "2",
+          "label": "in 6ths"
+        }
+      ]
+    },
+    {
+      "key": "piece",
+      "purpose": "Today's piece",
+      "name": "From today’s piece",
+      "how": "A short real passage from the piece you’re about to play — slowly, hands together.",
+      "source": "piece"
+    }
+  ]
+}
