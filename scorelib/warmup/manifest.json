@@ -59,107 +59,59 @@
       ]
     },
     {
-      "key": "voicing",
-      "purpose": "Balance",
-      "name": "Voice the inside",
-      "how": "Hold the chord and balance it — top, then bass, then the inner notes. ↻ for another.",
-      "cycle": "chord",
+      "key": "broken",
+      "purpose": "Ease",
+      "name": "Broken chords",
+      "how": "Roll up and back, even and relaxed. No rush.",
+      "cycle": "key",
       "params": [
         {
           "id": "0",
-          "label": "Cmaj7"
+          "label": "C"
         },
         {
           "id": "1",
-          "label": "Fmaj7"
+          "label": "G"
         },
         {
           "id": "2",
-          "label": "C6"
+          "label": "D"
         },
         {
           "id": "3",
-          "label": "G6/9"
+          "label": "A"
         },
         {
           "id": "4",
-          "label": "Cadd9"
+          "label": "E"
         },
         {
           "id": "5",
-          "label": "Dm7"
+          "label": "B"
         },
         {
           "id": "6",
-          "label": "Am7"
+          "label": "F♯"
         },
         {
           "id": "7",
-          "label": "Em7"
+          "label": "D♭"
         },
         {
           "id": "8",
-          "label": "Dm9"
+          "label": "A♭"
         },
         {
           "id": "9",
-          "label": "Am9"
+          "label": "E♭"
         },
         {
           "id": "10",
-          "label": "Dm11"
+          "label": "B♭"
         },
         {
           "id": "11",
-          "label": "Fm6"
-        },
-        {
-          "id": "12",
-          "label": "G7"
-        },
-        {
-          "id": "13",
-          "label": "C7"
-        },
-        {
-          "id": "14",
-          "label": "D9"
-        },
-        {
-          "id": "15",
-          "label": "G13"
-        },
-        {
-          "id": "16",
-          "label": "A7b9"
-        },
-        {
-          "id": "17",
-          "label": "E7#9"
-        },
-        {
-          "id": "18",
-          "label": "Fmaj7#11"
-        },
-        {
-          "id": "19",
-          "label": "C7#11"
-        },
-        {
-          "id": "20",
-          "label": "D7b13"
-        },
-        {
-          "id": "21",
-          "label": "Bm7b5"
-        },
-        {
-          "id": "22",
-          "label": "Bdim7"
-        },
-        {
-          "id": "23",
-          "label": "Ebmaj7"
+          "label": "F"
         }
       ]
     },
