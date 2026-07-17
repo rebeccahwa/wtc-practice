@@ -158,6 +158,34 @@
       ]
     },
     {
+      "key": "mirrorarp",
+      "purpose": "Symmetry",
+      "name": "Mirror arpeggio",
+      "how": "A major arpeggio in the RH, its mirror (a minor arpeggio) in the LH — same fingering, reflected around D. ↻ for another version.",
+      "cycle": "version",
+      "params": [
+        {
+          "id": "0",
+          "label": "Pure · D"
+        },
+        {
+          "id": "1",
+          "label": "Two-key · E ↔ Fm"
+        },
+        {
+          "id": "2",
+          "label": "Two-key · A ↔ Cm"
+        }
+      ]
+    },
+    {
+      "key": "mirrorpiece",
+      "purpose": "Symmetry",
+      "name": "Mirror: today's piece",
+      "how": "A fragment of today's piece in the RH, mirrored around D in the LH — for a fugue that's the subject and its inversion. Same motion, opposite hands.",
+      "source": "piecemirror"
+    },
+    {
       "key": "piece",
       "purpose": "Today's piece",
       "name": "From today’s piece",
