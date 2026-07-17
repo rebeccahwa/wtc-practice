@@ -139,51 +139,46 @@
     {
       "key": "mirror",
       "purpose": "Symmetry",
-      "name": "Mirror scale",
-      "how": "Same fingering in both hands, mirrored around D (the keyboard's centre) — the weak hand learns the strong hand's motion in reverse. ↻ for another version.",
+      "name": "Mirror (symmetrical inversion)",
+      "how": "Same fingering in both hands, mirrored around D (the keyboard's centre) — the weak hand learns the strong hand's motion in reverse. ↻ walks scales, arpeggios, then a fragment of today's piece (for a fugue, the subject and its inversion).",
       "cycle": "version",
       "params": [
         {
           "id": "0",
-          "label": "Pure · D"
+          "key": "mirror",
+          "label": "Scale · D"
         },
         {
           "id": "1",
-          "label": "Two-key · E ↔ A♭"
+          "key": "mirror",
+          "label": "Scale · E ↔ A♭"
         },
         {
           "id": "2",
-          "label": "Two-key · A ↔ E♭"
-        }
-      ]
-    },
-    {
-      "key": "mirrorarp",
-      "purpose": "Symmetry",
-      "name": "Mirror arpeggio",
-      "how": "A major arpeggio in the RH, its mirror (a minor arpeggio) in the LH — same fingering, reflected around D. ↻ for another version.",
-      "cycle": "version",
-      "params": [
+          "key": "mirror",
+          "label": "Scale · A ↔ E♭"
+        },
         {
           "id": "0",
-          "label": "Pure · D"
+          "key": "mirrorarp",
+          "label": "Arpeggio · D"
         },
         {
           "id": "1",
-          "label": "Two-key · E ↔ Fm"
+          "key": "mirrorarp",
+          "label": "Arpeggio · E ↔ Fm"
         },
         {
           "id": "2",
-          "label": "Two-key · A ↔ Cm"
+          "key": "mirrorarp",
+          "label": "Arpeggio · A ↔ Cm"
+        },
+        {
+          "id": "piece",
+          "source": "piecemirror",
+          "label": "Today’s piece"
         }
       ]
-    },
-    {
-      "key": "mirrorpiece",
-      "purpose": "Symmetry",
-      "name": "Mirror: today's piece",
-      "how": "A fragment of today's piece in the RH, mirrored around D in the LH — for a fugue that's the subject and its inversion. Same motion, opposite hands.",
-      "source": "piecemirror"
     },
     {
       "key": "piece",
