@@ -5,7 +5,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2026-07-12</encoding-date>
+      <encoding-date>2026-07-17</encoding-date>
       <software>music21 v.10.3.0</software>
       <supports element="beam" type="yes" />
       <supports element="stem" type="yes" />
@@ -19,15 +19,15 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="Pac090889e62732b29a4626f95180b989">
+    <score-part id="P70291aff20af3049f19b52ba2e33e925">
       <part-name />
     </score-part>
-    <score-part id="P0cefc88b178e5400b918189ecfed2daf">
+    <score-part id="P69d164a755082aed715ee96f03301532">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="Pac090889e62732b29a4626f95180b989">
+  <part id="P70291aff20af3049f19b52ba2e33e925">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -167,7 +167,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="P0cefc88b178e5400b918189ecfed2daf">
+  <part id="P69d164a755082aed715ee96f03301532">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>

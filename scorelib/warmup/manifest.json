@@ -137,6 +137,27 @@
       ]
     },
     {
+      "key": "mirror",
+      "purpose": "Symmetry",
+      "name": "Mirror scale",
+      "how": "Same fingering in both hands, mirrored around D (the keyboard's centre) — the weak hand learns the strong hand's motion in reverse. ↻ for another version.",
+      "cycle": "version",
+      "params": [
+        {
+          "id": "0",
+          "label": "Pure · D"
+        },
+        {
+          "id": "1",
+          "label": "Two-key · E ↔ A♭"
+        },
+        {
+          "id": "2",
+          "label": "Two-key · A ↔ E♭"
+        }
+      ]
+    },
+    {
       "key": "piece",
       "purpose": "Today's piece",
       "name": "From today’s piece",
