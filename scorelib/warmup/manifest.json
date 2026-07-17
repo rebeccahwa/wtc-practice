@@ -119,20 +119,58 @@
       "key": "scale",
       "purpose": "Evenness",
       "name": "Scale, up and down",
-      "how": "One octave, parallel, slow and even. Then the standard routine: 2 octaves parallel · 2 contrary · 2 contrary back · 2 parallel home. ↻ for 3rds & 6ths.",
-      "cycle": "interval",
-      "params": [
+      "how": "A single line in each hand, parallel, one octave up and down — slow and even. Work octaves, then 3rds (RH a 10th up), then 6ths (a 13th). ↻ changes key.",
+      "cycle": "key",
+      "modes": [
         {
-          "id": "0",
-          "label": "octaves"
+          "label": "C"
         },
         {
-          "id": "1",
-          "label": "in 3rds"
+          "label": "G"
         },
         {
-          "id": "2",
-          "label": "in 6ths"
+          "label": "D"
+        },
+        {
+          "label": "A"
+        },
+        {
+          "label": "E"
+        },
+        {
+          "label": "B"
+        },
+        {
+          "label": "F♯"
+        },
+        {
+          "label": "D♭"
+        },
+        {
+          "label": "A♭"
+        },
+        {
+          "label": "E♭"
+        },
+        {
+          "label": "B♭"
+        },
+        {
+          "label": "F"
+        }
+      ],
+      "steps": [
+        {
+          "label": "Octaves",
+          "key": "scaleoct"
+        },
+        {
+          "label": "In 3rds",
+          "key": "scale3rds"
+        },
+        {
+          "label": "In 6ths",
+          "key": "scale6ths"
         }
       ]
     },
