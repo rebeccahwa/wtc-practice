@@ -140,43 +140,31 @@
       "key": "mirror",
       "purpose": "Symmetry",
       "name": "Mirror (symmetrical inversion)",
-      "how": "Same fingering in both hands, mirrored around D (the keyboard's centre) — the weak hand learns the strong hand's motion in reverse. ↻ walks scales, arpeggios, then a fragment of today's piece (for a fugue, the subject and its inversion).",
+      "how": "Same fingering in both hands, mirrored around D (the keyboard's centre) — the weak hand learns the strong hand's motion in reverse. Work a scale, an arpeggio, then a fragment of today's piece; ↻ changes the mode (the piece stays around D).",
       "cycle": "version",
-      "params": [
+      "modes": [
         {
-          "id": "0",
-          "key": "mirror",
-          "label": "Scale · D"
+          "label": "Pure · D"
         },
         {
-          "id": "1",
-          "key": "mirror",
-          "label": "Scale · E ↔ A♭"
+          "label": "Two-key · E"
         },
         {
-          "id": "2",
-          "key": "mirror",
-          "label": "Scale · A ↔ E♭"
+          "label": "Two-key · A"
+        }
+      ],
+      "steps": [
+        {
+          "label": "Scale",
+          "key": "mirror"
         },
         {
-          "id": "0",
-          "key": "mirrorarp",
-          "label": "Arpeggio · D"
+          "label": "Arpeggio",
+          "key": "mirrorarp"
         },
         {
-          "id": "1",
-          "key": "mirrorarp",
-          "label": "Arpeggio · E ↔ Fm"
-        },
-        {
-          "id": "2",
-          "key": "mirrorarp",
-          "label": "Arpeggio · A ↔ Cm"
-        },
-        {
-          "id": "piece",
-          "source": "piecemirror",
-          "label": "Today’s piece"
+          "label": "Today’s piece",
+          "source": "piecemirror"
         }
       ]
     },
