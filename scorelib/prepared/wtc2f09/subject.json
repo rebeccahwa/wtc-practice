@@ -1,0 +1,213 @@
+{
+ "schema": 1,
+ "subject": {
+  "entries": [
+   {
+    "part": 0,
+    "voice": 1,
+    "start": {
+     "measure": 5,
+     "beat": 3.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 0,
+    "voice": 1,
+    "start": {
+     "measure": 17,
+     "beat": 1.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 0,
+    "voice": 1,
+    "start": {
+     "measure": 37,
+     "beat": 4.0
+    },
+    "notes": 8,
+    "kind": "subject",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 0,
+    "voice": 2,
+    "start": {
+     "measure": 4,
+     "beat": 1.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 0,
+    "voice": 2,
+    "start": {
+     "measure": 9,
+     "beat": 2.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 0,
+    "voice": 2,
+    "start": {
+     "measure": 16,
+     "beat": 1.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 0,
+    "voice": 2,
+    "start": {
+     "measure": 30,
+     "beat": 3.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 0,
+    "voice": 2,
+    "start": {
+     "measure": 35,
+     "beat": 2.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 3,
+    "start": {
+     "measure": 2,
+     "beat": 3.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 3,
+    "start": {
+     "measure": 9,
+     "beat": 3.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 3,
+    "start": {
+     "measure": 28,
+     "beat": 2.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 3,
+    "start": {
+     "measure": 35,
+     "beat": 3.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 4,
+    "start": {
+     "measure": 1,
+     "beat": 1.0
+    },
+    "notes": 8,
+    "kind": "subject",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 4,
+    "start": {
+     "measure": 10,
+     "beat": 3.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 4,
+    "start": {
+     "measure": 19,
+     "beat": 1.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 4,
+    "start": {
+     "measure": 36,
+     "beat": 3.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   },
+   {
+    "part": 1,
+    "voice": 4,
+    "start": {
+     "measure": 40,
+     "beat": 1.0
+    },
+    "notes": 6,
+    "kind": "fragment",
+    "prominence": "clear",
+    "match": 1.0
+   }
+  ]
+ },
+ "subject_length_notes": 8,
+ "piece_id": "wtc2f09"
+}

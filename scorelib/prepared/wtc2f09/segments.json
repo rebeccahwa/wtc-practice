@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "piece_id": "wtc2f09",
+ "beat_unit": 1.0,
+ "segments": [
+  {
+   "id": "s1",
+   "label": "m.1-5",
+   "start": {
+    "measure": 1,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 6,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "skeleton"
+   ]
+  },
+  {
+   "id": "s2",
+   "label": "m.6-11",
+   "start": {
+    "measure": 6,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 12,
+    "beat": 1.0
+   },
+   "activities": [
+    "voice",
+    "slow"
+   ]
+  },
+  {
+   "id": "s3",
+   "label": "m.12-17",
+   "start": {
+    "measure": 12,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 18,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "voice"
+   ]
+  },
+  {
+   "id": "s4",
+   "label": "m.18-22",
+   "start": {
+    "measure": 18,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 23,
+    "beat": 1.0
+   },
+   "activities": [
+    "skeleton",
+    "slow"
+   ]
+  },
+  {
+   "id": "s5",
+   "label": "m.23-27",
+   "start": {
+    "measure": 23,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 28,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "skeleton"
+   ]
+  },
+  {
+   "id": "s6",
+   "label": "m.28-34",
+   "start": {
+    "measure": 28,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 35,
+    "beat": 1.0
+   },
+   "activities": [
+    "voice",
+    "slow"
+   ]
+  },
+  {
+   "id": "s7",
+   "label": "m.35-38",
+   "start": {
+    "measure": 35,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 39,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "voice"
+   ]
+  },
+  {
+   "id": "s8",
+   "label": "m.39-43",
+   "start": {
+    "measure": 39,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 44,
+    "beat": 1.0
+   },
+   "activities": [
+    "skeleton",
+    "slow"
+   ]
+  }
+ ]
+}

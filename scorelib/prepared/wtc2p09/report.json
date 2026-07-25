@@ -1,0 +1,249 @@
+{
+ "piece_id": "wtc2p09",
+ "title": "Prelude No. 9 in E major, BWV 878",
+ "source": "/Users/hwa/src/score_editor/scorelib/wtc/wtc2p09.krn",
+ "ok": true,
+ "checks": [
+  {
+   "name": "key + meter from source",
+   "pass": true,
+   "detail": "fifths=4 meter=(3, 4)"
+  },
+  {
+   "name": "source defect repaired",
+   "pass": true,
+   "detail": "clef shape=G had no line; assumed 2"
+  },
+  {
+   "name": "staff layout",
+   "pass": true,
+   "detail": "reconstructed: 10 regions, 1 crossed onsets, 20 notes far outside their staff"
+  },
+  {
+   "name": "voices relabelled from track identity",
+   "pass": true,
+   "detail": "4 rest-only voices got a fallback number"
+  },
+  {
+   "name": "notes conserved (MEI -> music21)",
+   "pass": true,
+   "detail": "991 MEI notes vs 991 music21 pitches"
+  },
+  {
+   "name": "two staves",
+   "pass": true,
+   "detail": "2 parts"
+  },
+  {
+   "name": "key signature present in every staff",
+   "pass": true,
+   "detail": "[1, 1]"
+  },
+  {
+   "name": "time signature present",
+   "pass": true,
+   "detail": "3/4"
+  },
+  {
+   "name": "measures sum to their time signature",
+   "pass": true,
+   "detail": "0 off: []"
+  },
+  {
+   "name": "passages proposed",
+   "pass": true,
+   "detail": "10 passages, m.1-6, m.7-13, m.14-17, m.18-24, m.25-30, m.31-36, m.37-40, m.41-45, m.46-50, m.51-54"
+  },
+  {
+   "name": "hand overrides",
+   "pass": true,
+   "detail": "18 notes reassigned (bars [10, 14, 16, 17, 29, 30, 31, 35, 36])"
+  },
+  {
+   "name": "simplify levels generated",
+   "pass": true,
+   "detail": "['block', 'core', 'single'] (ok)"
+  }
+ ],
+ "hand_reconstruction": {
+  "cost": 1501.4,
+  "diagnostics": {
+   "onsets": 628,
+   "crossed_onsets": 1,
+   "notes_far_outside_staff": 20,
+   "max_span": 24,
+   "onsets_over_max_span": 13,
+   "worst": [
+    [
+     29.75,
+     "RH",
+     20
+    ],
+    [
+     48.5,
+     "RH",
+     22
+    ],
+    [
+     48.75,
+     "RH",
+     20
+    ],
+    [
+     86.0,
+     "RH",
+     20
+    ],
+    [
+     86.5,
+     "RH",
+     20
+    ],
+    [
+     88.75,
+     "RH",
+     20
+    ]
+   ]
+  },
+  "regions": [
+   {
+    "measures": [
+     1,
+     23
+    ],
+    "upper": [
+     1,
+     3
+    ],
+    "lower": [
+     2
+    ]
+   },
+   {
+    "measures": [
+     23,
+     25
+    ],
+    "upper": [
+     1,
+     4
+    ],
+    "lower": [
+     2,
+     3
+    ]
+   },
+   {
+    "measures": [
+     25,
+     40
+    ],
+    "upper": [
+     1,
+     3
+    ],
+    "lower": [
+     2
+    ]
+   },
+   {
+    "measures": [
+     40,
+     41
+    ],
+    "upper": [
+     1,
+     3,
+     5
+    ],
+    "lower": [
+     2
+    ]
+   },
+   {
+    "measures": [
+     41,
+     45
+    ],
+    "upper": [
+     1,
+     3
+    ],
+    "lower": [
+     2
+    ]
+   },
+   {
+    "measures": [
+     45,
+     46
+    ],
+    "upper": [
+     1,
+     3,
+     6
+    ],
+    "lower": [
+     2
+    ]
+   },
+   {
+    "measures": [
+     46,
+     49
+    ],
+    "upper": [
+     1,
+     3
+    ],
+    "lower": [
+     2
+    ]
+   },
+   {
+    "measures": [
+     49,
+     52
+    ],
+    "upper": [
+     1,
+     3,
+     7
+    ],
+    "lower": [
+     2
+    ]
+   },
+   {
+    "measures": [
+     52,
+     54
+    ],
+    "upper": [
+     1,
+     8
+    ],
+    "lower": [
+     2,
+     3,
+     7
+    ]
+   },
+   {
+    "measures": [
+     54,
+     54
+    ],
+    "upper": [
+     1,
+     7
+    ],
+    "lower": [
+     2,
+     3
+    ]
+   }
+  ]
+ }
+}

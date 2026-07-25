@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "title": "Prelude No. 9 in E major, BWV 878",
+  "score": "score.musicxml",
+  "segments": "segments.json",
+  "hands": "hands.json",
+  "simplify": {
+    "dir": "simplify",
+    "levels": [
+      "block",
+      "core",
+      "single"
+    ],
+    "slice": 0.5
+  }
+}

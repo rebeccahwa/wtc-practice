@@ -1,0 +1,167 @@
+{
+ "schema": 1,
+ "piece_id": "wtc2p09",
+ "beat_unit": 1.0,
+ "segments": [
+  {
+   "id": "s1",
+   "label": "m.1-6",
+   "start": {
+    "measure": 1,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 7,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "skeleton"
+   ]
+  },
+  {
+   "id": "s2",
+   "label": "m.7-13",
+   "start": {
+    "measure": 7,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 14,
+    "beat": 1.0
+   },
+   "activities": [
+    "voice",
+    "slow"
+   ]
+  },
+  {
+   "id": "s3",
+   "label": "m.14-17",
+   "start": {
+    "measure": 14,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 18,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "voice"
+   ]
+  },
+  {
+   "id": "s4",
+   "label": "m.18-24",
+   "start": {
+    "measure": 18,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 25,
+    "beat": 1.0
+   },
+   "activities": [
+    "skeleton",
+    "slow"
+   ]
+  },
+  {
+   "id": "s5",
+   "label": "m.25-30",
+   "start": {
+    "measure": 25,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 31,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "skeleton"
+   ]
+  },
+  {
+   "id": "s6",
+   "label": "m.31-36",
+   "start": {
+    "measure": 31,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 37,
+    "beat": 1.0
+   },
+   "activities": [
+    "voice",
+    "slow"
+   ]
+  },
+  {
+   "id": "s7",
+   "label": "m.37-40",
+   "start": {
+    "measure": 37,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 41,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "voice"
+   ]
+  },
+  {
+   "id": "s8",
+   "label": "m.41-45",
+   "start": {
+    "measure": 41,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 46,
+    "beat": 1.0
+   },
+   "activities": [
+    "skeleton",
+    "slow"
+   ]
+  },
+  {
+   "id": "s9",
+   "label": "m.46-50",
+   "start": {
+    "measure": 46,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 51,
+    "beat": 1.0
+   },
+   "activities": [
+    "hands_separate",
+    "skeleton"
+   ]
+  },
+  {
+   "id": "s10",
+   "label": "m.51-54",
+   "start": {
+    "measure": 51,
+    "beat": 1.0
+   },
+   "end": {
+    "measure": 55,
+    "beat": 1.0
+   },
+   "activities": [
+    "voice",
+    "slow"
+   ]
+  }
+ ]
+}

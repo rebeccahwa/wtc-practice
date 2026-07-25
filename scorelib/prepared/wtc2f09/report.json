@@ -1,0 +1,58 @@
+{
+ "piece_id": "wtc2f09",
+ "title": "Fugue No. 9 in E major, BWV 878",
+ "source": "/Users/hwa/src/score_editor/scorelib/wtc/wtc2f09.krn",
+ "ok": true,
+ "checks": [
+  {
+   "name": "key + meter from source",
+   "pass": true,
+   "detail": "fifths=4 meter=(4, 2)"
+  },
+  {
+   "name": "staff layout",
+   "pass": true,
+   "detail": "from the source *staff interpretations"
+  },
+  {
+   "name": "notes conserved (MEI -> music21)",
+   "pass": true,
+   "detail": "802 MEI notes vs 802 music21 pitches"
+  },
+  {
+   "name": "two staves",
+   "pass": true,
+   "detail": "2 parts"
+  },
+  {
+   "name": "key signature present in every staff",
+   "pass": true,
+   "detail": "[1, 1]"
+  },
+  {
+   "name": "time signature present",
+   "pass": true,
+   "detail": "4/2"
+  },
+  {
+   "name": "measures sum to their time signature",
+   "pass": true,
+   "detail": "0 off: []"
+  },
+  {
+   "name": "passages proposed",
+   "pass": true,
+   "detail": "8 passages, m.1-5, m.6-11, m.12-17, m.18-22, m.23-27, m.28-34, m.35-38, m.39-43"
+  },
+  {
+   "name": "hand overrides",
+   "pass": true,
+   "detail": "4 notes reassigned (bars [34, 36, 38, 42])"
+  },
+  {
+   "name": "subject entries found",
+   "pass": true,
+   "detail": "17 entries {'fragment': 15, 'subject': 2}"
+  }
+ ]
+}
