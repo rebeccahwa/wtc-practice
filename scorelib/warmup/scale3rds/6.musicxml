@@ -5,8 +5,8 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2026-07-17</encoding-date>
-      <software>music21 v.10.3.0</software>
+      <encoding-date>2026-07-26</encoding-date>
+      <software>music21 v.10.5.0</software>
       <supports element="beam" type="yes" />
       <supports element="stem" type="yes" />
       <supports element="accidental" type="yes" />
@@ -19,15 +19,15 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P9d9cfab929fe4ea8a316273c253f47d9">
+    <score-part id="Pdde6d3f7307b0c921b2a42ae66115f2e">
       <part-name />
     </score-part>
-    <score-part id="Pce0bc2dff9bb821541b5177e3db1dfc7">
+    <score-part id="P1827f10bf7d2960528720e2ab2d739d5">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P9d9cfab929fe4ea8a316273c253f47d9">
+  <part id="Pdde6d3f7307b0c921b2a42ae66115f2e">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -52,6 +52,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">4</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -60,6 +65,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">1</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -69,6 +79,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">2</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -78,6 +93,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">3</fingering>
+          </technical>
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 2 ==========================-->
@@ -90,6 +110,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">1</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -99,6 +124,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">2</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -108,6 +138,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">3</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -117,6 +152,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">4</fingering>
+          </technical>
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 3 ==========================-->
@@ -129,6 +169,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">3</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -138,6 +183,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">2</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -147,6 +197,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">1</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -156,6 +211,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">3</fingering>
+          </technical>
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 4 ==========================-->
@@ -168,6 +228,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">2</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -176,6 +241,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">1</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -185,6 +255,11 @@
         </pitch>
         <duration>20160</duration>
         <type>half</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="above" substitution="no">4</fingering>
+          </technical>
+        </notations>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
@@ -192,7 +267,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="Pce0bc2dff9bb821541b5177e3db1dfc7">
+  <part id="P1827f10bf7d2960528720e2ab2d739d5">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -217,6 +292,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">4</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -226,6 +306,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">3</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -235,6 +320,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">2</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -243,10 +333,21 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">1</fingering>
+          </technical>
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure implicit="no" number="2">
+      <attributes>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
       <note>
         <pitch>
           <step>C</step>
@@ -255,6 +356,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">3</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -264,6 +370,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">2</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -273,6 +384,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">1</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -282,6 +398,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">4</fingering>
+          </technical>
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 3 ==========================-->
@@ -294,6 +415,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">1</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -303,6 +429,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">2</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -312,7 +443,18 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">3</fingering>
+          </technical>
+        </notations>
       </note>
+      <attributes>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
       <note>
         <pitch>
           <step>B</step>
@@ -320,6 +462,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">1</fingering>
+          </technical>
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 4 ==========================-->
@@ -332,6 +479,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">2</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -341,6 +493,11 @@
         </pitch>
         <duration>10080</duration>
         <type>quarter</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">3</fingering>
+          </technical>
+        </notations>
       </note>
       <note>
         <pitch>
@@ -350,6 +507,11 @@
         </pitch>
         <duration>20160</duration>
         <type>half</type>
+        <notations>
+          <technical>
+            <fingering alternate="no" placement="below" substitution="no">4</fingering>
+          </technical>
+        </notations>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
