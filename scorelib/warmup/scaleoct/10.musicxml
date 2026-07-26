@@ -19,15 +19,15 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P33c533026f80cab22e2ebef4e37f7bc7">
+    <score-part id="Pab5221e80a1d360557624d63ea3377e6">
       <part-name />
     </score-part>
-    <score-part id="P41819470a2363123681ed9964efbfb12">
+    <score-part id="P9ca00d9731b8e79a512028a4a51bf954">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P33c533026f80cab22e2ebef4e37f7bc7">
+  <part id="Pab5221e80a1d360557624d63ea3377e6">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -501,7 +501,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="P41819470a2363123681ed9964efbfb12">
+  <part id="P9ca00d9731b8e79a512028a4a51bf954">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
