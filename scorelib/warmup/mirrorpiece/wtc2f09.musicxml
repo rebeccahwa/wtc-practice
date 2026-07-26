@@ -19,15 +19,15 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="Pc8b40436015db1d140f04f9c5ce18970">
+    <score-part id="Peea170ff2829d16b6d1477fcfa7a604f">
       <part-name />
     </score-part>
-    <score-part id="Pe99661e1138dc4739cc9a3e03971ac9a">
+    <score-part id="Pef7717371ae9fb5397573a7de6801f55">
       <part-name />
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="Pc8b40436015db1d140f04f9c5ce18970">
+  <part id="Peea170ff2829d16b6d1477fcfa7a604f">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -138,20 +138,225 @@
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
           <step>E</step>
           <octave>5</octave>
         </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>0</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
         <duration>20160</duration>
         <type>half</type>
-      </note>
-      <note print-object="no" print-spacing="yes">
-        <rest />
-        <duration>15120</duration>
-        <type>quarter</type>
-        <dot />
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
@@ -159,7 +364,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="Pe99661e1138dc4739cc9a3e03971ac9a">
+  <part id="Pef7717371ae9fb5397573a7de6801f55">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -270,20 +475,225 @@
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
           <step>C</step>
           <octave>3</octave>
         </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3">
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>0</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
         <duration>20160</duration>
         <type>half</type>
-      </note>
-      <note print-object="no" print-spacing="yes">
-        <rest />
-        <duration>15120</duration>
-        <type>quarter</type>
-        <dot />
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
