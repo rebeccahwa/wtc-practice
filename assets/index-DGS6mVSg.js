@@ -118,7 +118,7 @@ a warm-up, a piece, a break, another piece. Tap **＋ Warm-up**, **＋ Piece** o
 one. For a piece, choose which piece from the dropdown. Type how many minutes each should take,
 and drag the handle on the left to reorder them. The total adds itself up.
 
-![The planning screen: activity buttons at the top, your session building up as a list below.](guide/planner.png)
+![The planning screen: activity buttons at the top, your session building up as a list below.](public/guide/planner.png)
 
 **2. Tap "Start session ▸".** Now you're in the session. A strip across the top shows your plan,
 with the current activity highlighted, and a countdown for it.
@@ -151,7 +151,7 @@ or the fancy two parallel two contrary version, if you feel like it.
 Tap the cards you want; they collect in the tray at the top. **🎲 Randomize** picks some for you.
 Then **▶ Start** and it walks you through them one at a time.
 
-![Choosing warm-up exercises: the cards to pick from, and your chosen ones in the tray along the top.](guide/warmup-cards.png)
+![Choosing warm-up exercises: the cards to pick from, and your chosen ones in the tray along the top.](public/guide/warmup-cards.png)
 
 While you're playing a card, **↻ change key** gives you the same exercise in another key, and the
 **Metronome** button starts a click. Cards that come in several steps say so on the card
@@ -184,7 +184,7 @@ Then **▶ Start**. It shows you your passages **in a mixed-up order**, one at a
 with the rest of the piece grayed out. Under the music are dots — tap one each time the passage
 comes out cleanly. When you've had enough, the **Next** button at the top moves you on.
 
-![A passage being practiced: zoomed in, the rest of the piece grayed out, with the clean-reps dots underneath.](guide/passage.png)
+![A passage being practiced: zoomed in, the rest of the piece grayed out, with the clean-reps dots underneath.](public/guide/passage.png)
 
 If you'd rather just look at the whole piece, tap **Explore freely** on the setup screen.
 
@@ -194,7 +194,7 @@ If you'd rather just look at the whole piece, tap **Explore freely** on the setu
 
 Along the top of the music:
 
-![The row of tools above the music.](guide/toolbar.png)
+![The row of tools above the music.](public/guide/toolbar.png)
 
 - **Voices** — tap a number to pick out one line of the music in that color and gray the rest. This
   is useful in trying to work through a fugue. The **◻** button grays everything, for playing from
@@ -234,7 +234,7 @@ including in the middle of a session.
   the bar, as they say.
 - **Backup & transfer** — saves everything you've marked to a file (see the questions below).
 
-![Reshaping a piece's passages: the list on the left, the score on the right so you can see what you're doing.](guide/passages-editor.png)
+![Reshaping a piece's passages: the list on the left, the score on the right so you can see what you're doing.](public/guide/passages-editor.png)
 
 Every panel has a **reset**, so nothing you change here can be broken permanently.
 
@@ -298,4 +298,4 @@ mistakes can survive. Tell me which piece and which bar and I'll try to debug.
 
 Tell me what you were doing and what you expected to happen. Saying which piece and which bar,
 and whether you were on an iPad or a computer, helps a lot.
-`,Yf=G(`<div class="help svelte-2m26p2"><header class="svelte-2m26p2"><button class="small">‹ Back</button> <span class="cap svelte-2m26p2">HOW TO USE THIS</span> <span class="grow svelte-2m26p2"></span> <button class="small gear svelte-2m26p2" aria-label="Settings" title="Settings">⚙</button></header> <article class="svelte-2m26p2"></article></div>`);function Xf(e,t){qe(t,!1);let n=$.parse(Jf,{async:!1}).replaceAll(`src="guide/`,`src="/wtc-practice/guide/`);Mi();var r=Yf(),i=R(r),a=R(i),o=z(a,6);j(i);var s=z(i,2);ni(s,()=>n,!0),j(s),j(r),W(`click`,a,function(...e){ma?.apply(this,e)}),W(`click`,o,function(...e){da?.apply(this,e)}),K(e,r),Je()}Ar([`click`]);var Zf=Pi(()=>X);function Qf(e,t){qe(t,!1),Ii(async()=>{la(),Zf(Zf().pieces=await ya())}),Mi();var n=Rr(),r=pn(n),i=e=>{Sa(e,{})},a=e=>{Kc(e,{})},o=e=>{qu(e,{})},s=e=>{md(e,{})},c=e=>{Xf(e,{})};J(r,e=>{Zf().screen===`idle`?e(i):Zf().screen===`planner`?e(a,1):Zf().screen===`running`?e(o,2):Zf().screen===`editor`?e(s,3):Zf().screen===`help`&&e(c,4)}),K(e,n),Je()}zr(Qf,{target:document.getElementById(`app`)});
+`,Yf=G(`<div class="help svelte-2m26p2"><header class="svelte-2m26p2"><button class="small">‹ Back</button> <span class="cap svelte-2m26p2">HOW TO USE THIS</span> <span class="grow svelte-2m26p2"></span> <button class="small gear svelte-2m26p2" aria-label="Settings" title="Settings">⚙</button></header> <article class="svelte-2m26p2"></article></div>`);function Xf(e,t){qe(t,!1);let n=$.parse(Jf,{async:!1}).replaceAll(`src="public/guide/`,`src="/wtc-practice/guide/`);Mi();var r=Yf(),i=R(r),a=R(i),o=z(a,6);j(i);var s=z(i,2);ni(s,()=>n,!0),j(s),j(r),W(`click`,a,function(...e){ma?.apply(this,e)}),W(`click`,o,function(...e){da?.apply(this,e)}),K(e,r),Je()}Ar([`click`]);var Zf=Pi(()=>X);function Qf(e,t){qe(t,!1),Ii(async()=>{la(),Zf(Zf().pieces=await ya())}),Mi();var n=Rr(),r=pn(n),i=e=>{Sa(e,{})},a=e=>{Kc(e,{})},o=e=>{qu(e,{})},s=e=>{md(e,{})},c=e=>{Xf(e,{})};J(r,e=>{Zf().screen===`idle`?e(i):Zf().screen===`planner`?e(a,1):Zf().screen===`running`?e(o,2):Zf().screen===`editor`?e(s,3):Zf().screen===`help`&&e(c,4)}),K(e,n),Je()}zr(Qf,{target:document.getElementById(`app`)});
